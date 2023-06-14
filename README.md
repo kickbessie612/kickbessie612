@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Yuan</h1>
-<h3 align="center">A software engineer from the Irvine, California | Proud Mom | Film enthusiast </h3>
-
+<h3 align="center">A software engineer from the Irvine, California | Proud Mom | Film enthusiast | Tech Wizard </h3>
 
 
 - 🔭 I’m currently working on [Prop Master](https://prop-master.onrender.com/)
 
-- 🌱 I’m currently learning to be an **AWS certified developer**
+- 🌱 I’m currently learning to be an **UI expert**
 
 - 👨‍💻 All of my projects are available at my [portfolio page]()
 
@@ -19,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/anthony-v-67a490214/" target="_blank">
+  <a href="https://www.linkedin.com/in/yuan-wang-80613052" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
