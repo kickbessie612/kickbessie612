@@ -3,19 +3,19 @@
 
 
 
-- 🔭 I’m currently working on [MyFitnessMeter](https://myfitnessmeter.onrender.com)
+- 🔭 I’m currently working on [Prop Master](https://prop-master.onrender.com/)
 
 - 🌱 I’m currently learning to be an **AWS certified developer**
 
-- 👨‍💻 All of my projects are available at my [portfolio page](https://hvu24.github.io/)
+- 👨‍💻 All of my projects are available at my [portfolio page]()
 
 - 💬 Ask me about **Python, React, JavaScript**
 
-- 📫 How to reach me **hvu24@horizon.csueastbay.edu**
+- 📫 How to reach me **yuanwang612@gmaill.com**
 
-- 📄 Know about my experiences here on my [resume](https://drive.google.com/file/d/1gnzQwD2t7cU7gDSZmH6VxtAJYT4d2feI/view)
+- 📄 Know about my experiences here on my [resume](https://docs.google.com/document/d/1iXxUEL6hx4sZkifkp4cTL4ACdIMVh5aPVYTyxHZWrFA/edit?usp=sharing)
 
-- ⚡ Fun fact **I've bench pressed 355 pounds at 175 pounds body weight**
+- ⚡ Fun fact **I've watched 2122 movies(and TV shows)**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
