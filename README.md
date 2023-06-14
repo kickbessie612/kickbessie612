@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences here on my [resume](https://docs.google.com/document/d/1iXxUEL6hx4sZkifkp4cTL4ACdIMVh5aPVYTyxHZWrFA/edit?usp=sharing)
 
-- ⚡ Fun fact **I've watched 2122 movies(and TV shows)**
+- ⚡ Fun fact **I've watched 2122 movies(and TV shows) so far...**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
