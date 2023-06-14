@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yuan</h1>
-<h3 align="center">A software engineer from the Irvine, California | Proud Mom | Film enthusiast | Tech Wizard </h3>
+<h3 align="center">A software engineer from Irvine, California | Proud Mom | Film enthusiast | Tech Wizard </h3>
 
 
 - 🔭 I’m currently working on [Prop Master](https://prop-master.onrender.com/)
