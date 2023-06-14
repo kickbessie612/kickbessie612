@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yuan</h1>
-<h3 align="center">A software engineer from the Irvine, California | Proud Mom | Film enthusiast | Data visualization addict</h3>
+<h3 align="center">A software engineer from the Irvine, California | Proud Mom | Film enthusiast </h3>
 
 
 
